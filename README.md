@@ -1,18 +1,36 @@
-![MasterHead](https://png.pngtree.com/background/20231018/original/pngtree-computer-programmer-operating-3d-rendering-robot-in-automated-work-environment-picture-image_5598534.jpg)
-<h1 align="center">Hi 👋, I'm Yair Menda</h1>
-<h3 align="center">A passionate software engineer</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" style="float: right;">
+# Hi 👋, I'm Yair Menda
 
-- 🤝 **I'm Looking for a place to develop**
+**Software Engineer | [cite_start]BSc in Software Engineering from Ben-Gurion University** [cite: 1, 2, 14]
 
-- 💬 Ask me about **python, java , js , Ts ,React , data_structures, relational_dbs**
+[cite_start]I am an engineer with a deep affinity for **Infrastructure** and the **connection between software and hardware**[cite: 4]. [cite_start]With experience leading products from concept to revenue as a **Co-Founder**, I am now pivoting my entrepreneurial grit into driving and integrating complex software/hardware systems[cite: 3, 5, 6].
 
-- 📫 How to reach me **Yairmenda92@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yair-menda-7468bb25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yair Menda" height="30" width="40" /></a>
-</p>
+### 🚀 Featured Systems Projects (C++)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+* [cite_start]**[NTONIX](https://github.com/yourusername/ntonix)**: A high-performance **C++ Reverse Proxy** designed for LLM model traffic, featuring intelligent request caching and enhanced security layers[cite: 17, 19].
+* [cite_start]**[VECTOR++](https://github.com/yourusername/vector-plus-plus)**: A hardware-accelerated **Vector Database** engineered in **C++** utilizing **gRPC** to optimize similarity searches and high-dimensional data retrieval[cite: 18, 19].
+
+---
+
+### 🛠️ Technical Stack
+
+* **Languages:** C++, Java, Python, JavaScript (Node.js/TypeScript)[cite: 19].
+* [cite_start]**Infrastructure & Cloud:** AWS (SQS, Lambda, EC2, S3), RabbitMQ, Heroku, RESTful APIs[cite: 9, 11, 19].
+* [cite_start]**Databases:** Postgres, Pinecone, Neon, Sequelize ORM[cite: 10, 19].
+* **Systems & Architecture:** Event-driven pipelines, Data Structures, Algorithms, Object-Oriented Programming[cite: 9, 19].
+
+---
+
+### 📈 Professional Highlights
+
+* [cite_start]**Co-Founder @ WATU-AI:** Architected an event-driven pipeline handling real-time streaming for thousands of applicants using **Node.js, RabbitMQ, and AWS Lambdas**[cite: 6, 9].
+* [cite_start]**Investment Analyst @ Cactus Capital:** Conducted technical due diligence and professional startup analysis for early-stage venture capital[cite: 12, 13].
+* **Elite Leadership:** Served as a **Squad Commander in the IDF "EGOZ" Special Forces**, managing high-pressure operations and training[cite: 21, 22].
+
+---
+
+### 📫 Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yair-menda-7468bb25b)](https://www.linkedin.com/in/yair-menda-7468bb25b)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Yairmenda92@gmail.com)](mailto:Yairmenda92@gmail.com)
