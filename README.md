@@ -9,6 +9,7 @@ I am a systems-oriented engineer with 2 years of hands-on experience in architec
 ### 🛠️ Featured Systems & Infrastructure Projects
 
 ***[NTONIX / C++ Reverse Proxy](https://github.com/NTONIX)**: A high-performance proxy developed in **C++** positioned in front of LLM models to handle traffic orchestration, enhance security, and implement request caching.
+
 ***[VECTOR++ / C++ Vector DB](https://github.com/VECTOR++)**: A high-dimensional similarity search engine engineered in **C++** using **gRPC** for optimized data retrieval.
 
 ---
