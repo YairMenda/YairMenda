@@ -1,8 +1,6 @@
 # Hi 👋, I'm Yair
 
-**Software Engineer**
-
-I am Software Engineer with 2 years of hands-on experience and a BSc in Software Engineering from BGU.
+I am Software Engineer with a BSc in Software Engineering from BGU.
 My experience leading an E2E product, from initial concept and design, through execution to revenue generation.
 Focused on developing high-scale systems and integrating AI into production environments.
 ---
