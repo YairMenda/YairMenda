@@ -1,9 +1,10 @@
 # Hi 👋, I'm Yair
 
-I am Software Engineer with a BSc in Software Engineering from BGU.
+Software Engineer with a BSc in Software Engineering from BGU.
 My experience leading an E2E product, from initial concept and design, through execution to revenue generation.
 Focused on developing high-scale systems and integrating AI into production environments.
 ---
+
 
 ### 🛠️ Featured Projects
 
@@ -12,13 +13,12 @@ Focused on developing high-scale systems and integrating AI into production envi
 ***[NTONIX / C++ Reverse Proxy](https://github.com/NTONIX)**: A high-performance proxy developed in **C++** positioned in front of LLM models to handle traffic orchestration, enhance security, and implement request caching.
 
 ***[VECTOR++ / C++ Vector DB](https://github.com/VECTOR++)**: A high-dimensional similarity search engine engineered in **C++** using **gRPC** for optimized data retrieval.
-
-And many more...
 ---
 
 ### 💻 Technical Proficiency
 
 **Technical Skills:** Databases(Postgres, Pinecone, Neon, ORM), Web Development (React, Next.js, Node.js), Data Structures, Algorithms, Object oriented programming, RESTful API, AWS(SQS, LAMBDA, EC2, S3), C++, JAVA, Python, Docker, CI/CD.
+
 **Core Fundamentals:** Data Structures, Algorithms, Object-Oriented Programming, System Design.
 
 ---
