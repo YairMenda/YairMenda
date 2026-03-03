@@ -1,24 +1,26 @@
-# Hi 👋, I'm Yair Menda
+# Hi 👋, I'm Yair
 
-**Software Engineer | BSc in Software Engineering, Ben-Gurion University**
+**Software Engineer**
 
-I am a systems-oriented engineer with 2 years of hands-on experience in architecting end-to-end products. My background includes leading an E2E product from concept and design through execution to revenue generation. I specialize in **Infrastructure** and the **connection between software and hardware**, with a proven track record of building scalable, event-driven distributed systems. 
-
+I am Software Engineer with 2 years of hands-on experience and a BSc in Software Engineering from BGU.
+My experience leading an E2E product, from initial concept and design, through execution to revenue generation.
+Focused on developing high-scale systems and integrating AI into production environments.
 ---
 
-### 🛠️ Featured Systems & Infrastructure Projects
+### 🛠️ Featured Projects
+
+***[CODY / Interview prep platform]**: An AI coding assistant (Extension) and a "LinkedIn"-like hub for LLM mock interviews (Livekit) and a social network of mentors and learners.
 
 ***[NTONIX / C++ Reverse Proxy](https://github.com/NTONIX)**: A high-performance proxy developed in **C++** positioned in front of LLM models to handle traffic orchestration, enhance security, and implement request caching.
 
 ***[VECTOR++ / C++ Vector DB](https://github.com/VECTOR++)**: A high-dimensional similarity search engine engineered in **C++** using **gRPC** for optimized data retrieval.
 
+And many more...
 ---
 
 ### 💻 Technical Proficiency
 
-**Languages:** C++, Python, Java, JavaScript/TypeScript.
-**Infrastructure & Cloud:** AWS (SQS, Lambda, EC2, S3), RabbitMQ, RESTful APIs, Heroku.
-**Backend & Data:** Node.js, Express, Sequelize ORM, Postgres, Pinecone, Neon.
+**Technical Skills:** Databases(Postgres, Pinecone, Neon, ORM), Web Development (React, Next.js, Node.js), Data Structures, Algorithms, Object oriented programming, RESTful API, AWS(SQS, LAMBDA, EC2, S3), C++, JAVA, Python, Docker, CI/CD.
 **Core Fundamentals:** Data Structures, Algorithms, Object-Oriented Programming, System Design.
 
 ---
