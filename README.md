@@ -1,30 +1,58 @@
-# Hi 👋, I'm Yair
+Hi, I'm Yair
+Software Engineer | BSc in Software Engineering from BGU
 
-Software Engineer with a BSc in Software Engineering from BGU.
-My experience leading an E2E product, from initial concept and design, through execution to revenue generation.
-Focused on developing high-scale systems and integrating AI into production environments.
----
+I am a builder focused on solving complex technical problems.
 
+Featured Projects
+[INVESTOR / Multi-Agent Research]
+A RAG system using LangGraph and Pinecone to analyze SEC filings.
 
-### 🛠️ Featured Projects
+Built an idempotent pipeline to normalize and parse EDGAR filings.
 
-***[CODY / Interview prep platform]**: An AI coding assistant (Extension) and a "LinkedIn"-like hub for LLM mock interviews (Livekit) and a social network of mentors and learners.
+Used semantic chunking and Cohere reranking to improve retrieval accuracy.
 
-***[NTONIX / C++ Reverse Proxy](https://github.com/NTONIX)**: A high-performance proxy developed in **C++** positioned in front of LLM models to handle traffic orchestration, enhance security, and implement request caching.
+Orchestrated specialized agents with a validation pass to ensure factual grounding.
 
-***[VECTOR++ / C++ Vector DB](https://github.com/VECTOR++)**: A high-dimensional similarity search engine engineered in **C++** using **gRPC** for optimized data retrieval.
+[CODY / AI Interview Preparation Platform]
+An end-to-end platform designed to bridge the gap between technical learning and professional readiness.
 
----
+AI Coding Assistant: Developed a custom extension that provides real-time coding support and feedback.
 
-### 💻 Technical Proficiency
+Mock Interview Hub: Built a "LinkedIn-like" interface for conducting live LLM-powered mock interviews using Livekit for real-time interaction.
 
-**Technical Skills:** Databases(Postgres, Pinecone, Neon, ORM), Web Development (React, Next.js, Node.js), Data Structures, Algorithms, Object oriented programming, RESTful API, AWS(SQS, LAMBDA, EC2, S3), C++, JAVA, Python, Docker, CI/CD.
+Social Mentorship Network: Engineered a community-driven ecosystem connecting mentors and learners to share resources and track progress.
 
-**Core Fundamentals:** Data Structures, Algorithms, Object-Oriented Programming, System Design.
+Full-Stack Implementation: Integrated real-time communication tools with a social networking architecture to create a comprehensive preparation environment.
 
----
+[VECTOR++ / C++ Vector DB]
+A high-dimensional similarity search engine engineered for optimized data retrieval.
 
-### 📫 Connect with me:
+Developed in C++ using gRPC to handle high-performance communication.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-menda-7468bb25b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Yairmenda92@gmail.com)
+Built to perform efficient similarity searches across large-scale vector datasets.
+
+[NTONIX / C++ Reverse Proxy]
+A high-performance proxy built in C++ for LLM traffic orchestration.
+
+Designed to sit in front of models to enhance security and handle traffic.
+
+Implemented request caching to reduce latency and API costs.
+
+[AIGT / Kuhn Poker CFR]
+A Python implementation of Kuhn Poker for studying Counterfactual Regret Minimization (CFR).
+
+Measures convergence to Nash Equilibrium across different CFR variants.
+
+Features a modular architecture for testing custom strategies and agents.
+
+Technical Stack
+Languages: C++, Python, Java, JavaScript/TypeScript (Node.js, React, Next.js).
+
+Infrastructure: AWS (Lambda, SQS, EC2, S3), Docker, CI/CD, RabbitMQ.
+
+Data & AI: Postgres, Pinecone, LangGraph, RAGAS, Vector DBs, Sequelize ORM.
+
+Core: System Design, Scalable Architecture, Data Structures, and Algorithms.
+
+Connect with me:
+LinkedIn | Email
