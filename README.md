@@ -4,7 +4,7 @@ Software Engineer | BSc in Software Engineering from BGU
 I am a builder focused on solving complex technical problems.
 
 Featured Projects
-[INVESTOR / Multi-Agent Research]
+*[INVESTOR / Multi-Agent Research]*
 A RAG system using LangGraph and Pinecone to analyze SEC filings.
 
 Built an idempotent pipeline to normalize and parse EDGAR filings.
@@ -13,32 +13,32 @@ Used semantic chunking and Cohere reranking to improve retrieval accuracy.
 
 Orchestrated specialized agents with a validation pass to ensure factual grounding.
 
-[CODY / AI Interview Preparation Platform]
+*[CODY / AI Interview Preparation Platform]*
 An end-to-end platform designed to bridge the gap between technical learning and professional readiness.
 
 AI Coding Assistant: Developed a custom extension that provides real-time coding support and feedback.
 
-Mock Interview Hub: Built a "LinkedIn-like" interface for conducting live LLM-powered mock interviews using Livekit for real-time interaction.
+Mock Interview Hub: Built a "LinkedIn-like" interface for conducting live LLM-powered mock interviews using Livekit.
 
-Social Mentorship Network: Engineered a community-driven ecosystem connecting mentors and learners to share resources and track progress.
+Social Mentorship Network: Engineered a community-driven ecosystem to connect mentors and learners.
 
-Full-Stack Implementation: Integrated real-time communication tools with a social networking architecture to create a comprehensive preparation environment.
+Full-Stack Implementation: Integrated real-time communication tools with a social networking architecture.
 
-[VECTOR++ / C++ Vector DB]
+*[VECTOR++ / C++ Vector DB]*
 A high-dimensional similarity search engine engineered for optimized data retrieval.
 
 Developed in C++ using gRPC to handle high-performance communication.
 
 Built to perform efficient similarity searches across large-scale vector datasets.
 
-[NTONIX / C++ Reverse Proxy]
+*[NTONIX / C++ Reverse Proxy]*
 A high-performance proxy built in C++ for LLM traffic orchestration.
 
 Designed to sit in front of models to enhance security and handle traffic.
 
 Implemented request caching to reduce latency and API costs.
 
-[AIGT / Kuhn Poker CFR]
+*[AIGT / Kuhn Poker CFR]*
 A Python implementation of Kuhn Poker for studying Counterfactual Regret Minimization (CFR).
 
 Measures convergence to Nash Equilibrium across different CFR variants.
@@ -55,4 +55,5 @@ Data & AI: Postgres, Pinecone, LangGraph, RAGAS, Vector DBs, Sequelize ORM.
 Core: System Design, Scalable Architecture, Data Structures, and Algorithms.
 
 Connect with me:
-LinkedIn | Email
+LinkedIn: https://www.linkedin.com/in/yairmenda
+Email: Yairmenda92@gmail.com
