@@ -1,59 +1,58 @@
-Hi, I'm Yair
-Software Engineer | BSc in Software Engineering from BGU
+# Hi, I'm Yair 👋
+### **Software Engineer | BSc in Software Engineering from BGU**
 
 I am a builder focused on solving complex technical problems.
 
-Featured Projects
-*[INVESTOR / Multi-Agent Research]*
-A RAG system using LangGraph and Pinecone to analyze SEC filings.
+---
 
-Built an idempotent pipeline to normalize and parse EDGAR filings.
+## 🚀 Featured Projects
 
-Used semantic chunking and Cohere reranking to improve retrieval accuracy.
+###  **[INVESTOR / Multi-Agent Research]**
+*A high-precision RAG system for financial intelligence.*
+* **Architecture:** Orchestrated specialized agents via **LangGraph** and **Pinecone** to analyze complex SEC filings.
+* **Pipeline:** Built an **idempotent pipeline** to normalize and parse EDGAR filings for consistent data ingestion.
+* **Optimization:** Leveraged **semantic chunking** and **Cohere reranking** to significantly improve retrieval accuracy.
+* **Reliability:** Implemented a validation pass to ensure all agent outputs are factually grounded.
 
-Orchestrated specialized agents with a validation pass to ensure factual grounding.
+###  **[CODY / AI Interview Preparation Platform]**
+*An end-to-end ecosystem bridging the gap between learning and professional readiness.*
+* **AI Coding Assistant:** Custom extension providing real-time coding support and feedback.
+* **Mock Interview Hub:** A "LinkedIn-like" interface for live, **LLM-powered** mock interviews using **Livekit**.
+* **Social Mentorship:** Engineered a community-driven network to connect mentors and learners.
+* **Stack:** Integrated real-time communication tools within a scalable social networking architecture.
 
-*[CODY / AI Interview Preparation Platform]*
-An end-to-end platform designed to bridge the gap between technical learning and professional readiness.
+###  **[VECTOR++ / C++ Vector DB]**
+*A high-dimensional similarity search engine optimized for retrieval speed.*
+* **Core:** Developed in **C++** using **gRPC** for low-latency, high-performance communication.
+* **Performance:** Engineered to perform efficient similarity searches across large-scale vector datasets.
 
-AI Coding Assistant: Developed a custom extension that provides real-time coding support and feedback.
+###  **[NTONIX / C++ Reverse Proxy]**
+*High-performance proxy for LLM traffic orchestration.*
+* **Security:** Designed as a frontier layer for models to enhance security and manage traffic flow.
+* **Efficiency:** Implemented **request caching** to drastically reduce latency and minimize API costs.
 
-Mock Interview Hub: Built a "LinkedIn-like" interface for conducting live LLM-powered mock interviews using Livekit.
+###  **[AIGT / Kuhn Poker CFR]**
+*Algorithmic study of Game Theory and Counterfactual Regret Minimization.*
+* **Logic:** Python implementation measuring convergence to **Nash Equilibrium** across CFR variants.
+* **Modular:** Features a flexible architecture for testing custom strategies and reinforcement learning agents.
 
-Social Mentorship Network: Engineered a community-driven ecosystem to connect mentors and learners.
+---
 
-Full-Stack Implementation: Integrated real-time communication tools with a social networking architecture.
+## 🛠 Technical Stack
 
-*[VECTOR++ / C++ Vector DB]*
-A high-dimensional similarity search engine engineered for optimized data retrieval.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `C++`, `Python`, `Java`, `JavaScript/TypeScript`, `Node.js` |
+| **Frontend** | `React`, `Next.js`, `Tailwind CSS` |
+| **Infrastructure** | `AWS (Lambda, SQS, EC2, S3)`, `Docker`, `CI/CD`, `RabbitMQ` |
+| **Data & AI** | `Postgres`, `Pinecone`, `LangGraph`, `RAGAS`, `Vector DBs`, `Sequelize` |
+| **Core CS** | `System Design`, `Scalable Architecture`, `Data Structures & Algorithms` |
 
-Developed in C++ using gRPC to handle high-performance communication.
+---
 
-Built to perform efficient similarity searches across large-scale vector datasets.
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yairmenda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yairmenda92@gmail.com)
 
-*[NTONIX / C++ Reverse Proxy]*
-A high-performance proxy built in C++ for LLM traffic orchestration.
-
-Designed to sit in front of models to enhance security and handle traffic.
-
-Implemented request caching to reduce latency and API costs.
-
-*[AIGT / Kuhn Poker CFR]*
-A Python implementation of Kuhn Poker for studying Counterfactual Regret Minimization (CFR).
-
-Measures convergence to Nash Equilibrium across different CFR variants.
-
-Features a modular architecture for testing custom strategies and agents.
-
-Technical Stack
-Languages: C++, Python, Java, JavaScript/TypeScript (Node.js, React, Next.js).
-
-Infrastructure: AWS (Lambda, SQS, EC2, S3), Docker, CI/CD, RabbitMQ.
-
-Data & AI: Postgres, Pinecone, LangGraph, RAGAS, Vector DBs, Sequelize ORM.
-
-Core: System Design, Scalable Architecture, Data Structures, and Algorithms.
-
-Connect with me:
-LinkedIn: https://www.linkedin.com/in/yairmenda
-Email: Yairmenda92@gmail.com
+---
+*“Building the future, one commit at a time.”*
